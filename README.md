@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kale</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img align="center"  margin-left: 400px; alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="middle"  margin-left: 400px; alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
   <h3 align="left">About Me:</h3>
