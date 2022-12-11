@@ -80,12 +80,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi5733" alt="abhi5733" /></a> </p>
 
 
-![snake gif](https://github.com/agodse21/agodse21/blob/output/github-contribution-grid-snake.gif)
-
-[![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=agodse21&theme=dracula)](https://github.com/agodse21/github-readme-activity-graph)
-
-
-
 
 
 
