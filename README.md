@@ -65,6 +65,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi5733&show_icons=true&locale=en" alt="Abhijeet Kale" /></p>
 
 
-[linkedin]: https://www.linkedin.com/in/abhijeet-kale-588b77238
+
 
 
