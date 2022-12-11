@@ -15,6 +15,21 @@
 - 📫 How to reach me **abhijeetkale5733@gmail.com**
 
 
+
+
+ <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                                        
+ 
+ 
+<div><h2> 🌐 Socials</h2> <div/>
+<br/>
+<p align="left">
+<a href = "https://www.linkedin.com/in/abhijeet-kale-588b77238/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:agodse9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://agodse21.github.io/amol-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+
+</p>
+
+
 ### Connect with me:
 
 [<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
