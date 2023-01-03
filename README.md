@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Abhijeet Kale</h1>
 <h3 align="center">
 
- Full Stack Web Developer
+A passionate Full Stack Web Developer from India
 
 ></h3>
 <p align="center"> <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" alt="MahbubDev"/> </p>
