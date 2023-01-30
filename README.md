@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Abhijeet Kale</h1>
 <h3 align="center">
 
-A passionate Full Stack Web Developer from India
+A passionate Full Stack Web Developer from India  with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of Bootcamp structure learning JavaScript, Node.Js, React.Js, MongoDB, Express, HTML5, and CSS3.
 
 ></h3>
 <p align="center"> <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" alt="MahbubDev"/> </p>
