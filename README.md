@@ -6,7 +6,7 @@ A passionate Full Stack Web Developer from India  with the ability to learn and 
 ></h3>
 <p align="center"> <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" alt="MahbubDev"/> </p>
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Projects**
 
